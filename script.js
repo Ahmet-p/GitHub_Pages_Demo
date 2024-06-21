@@ -1,0 +1,1 @@
+alert("Is the javascript working")
